@@ -30,7 +30,8 @@ _Focus on usage_
 
 --
 
-# What is an asynchronous stream?
+# What is an
+# Asynchronous stream?
 
 --
 ### What is a collection (immutable)?
