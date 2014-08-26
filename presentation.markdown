@@ -249,7 +249,7 @@ fileMonitorActor ! RegisterCallback(
 ## RxScala
 
 ```scala
-val monitor = RxMonitor() // hi
+val monitor = RxMonitor()
 val observable = monitor.observable
 
 val testObservable = observer.filter(_.path.toString.split('/').last == "test")

@@ -942,7 +942,7 @@ fileMonitorActor ! RegisterCallback(
   </section>
   <section>
     <h2 id="rxscala">RxScala</h2>
-<pre><code class="lang-scala"><span class="keyword">val</span> monitor = RxMonitor() <span class="comment">// hi</span>
+<pre><code class="lang-scala"><span class="keyword">val</span> monitor = RxMonitor()
 <span class="keyword">val</span> observable = monitor.observable
 
 <span class="keyword">val</span> testObservable = observer.filter(_.path.toString.split(<span class="string">'/'</span>).last == <span class="string">"test"</span>)
