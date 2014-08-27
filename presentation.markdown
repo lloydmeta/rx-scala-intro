@@ -2,6 +2,7 @@ title: Intro to RxScala
 author:
   name: Lloyd
   twitter: meta_lloyd
+  github: lloydmeta
   url: http://beachape.com
 output: index.html
 theme: sudodoki/reveal-cleaver-theme
@@ -11,7 +12,6 @@ controls: true
 
 # Intro to RxScala
 
-Github: [lloydmeta](https://github.com/lloydmeta)
 --
 
 ## Overview
