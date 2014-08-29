@@ -11,7 +11,7 @@ controls: true
 --
 
 # Intro to RxScala
-
+[beachape.com/rx-scala-intro](http://beachape.com/rx-scala-intro)
 --
 
 ## Overview
